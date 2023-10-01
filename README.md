@@ -1,5 +1,3 @@
-# Chantel Boiro
-### Software Development
 ![Software Development](https://github.com/chantelVb/chantelVb/assets/97921215/82901966-edb7-4b09-a8c9-a45411e3660d)
 
 ## About Me
