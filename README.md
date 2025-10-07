@@ -1,10 +1,13 @@
-![Software Development](https://github.com/chantelVb/chantelVb/assets/97921215/82901966-edb7-4b09-a8c9-a45411e3660d)
+# Chantel - Product Engineer in Progress...
+## From front-end to full-stack to AI - designing the next generation of digital experiences.
+_Designing with logic, building with heart._
+
+<br/>
 
 ## About Me
-I'm Chantel from London UK, and I am an Apprentice Software Developer aiming to complete my apprenticeship in the next couple of months. It has been almost 2 years since I started a Digital Skills Bootcamp, which led me to my apprenticeship which has been life-changing. I have enjoyed the complexity of learning new programming languages such as JS and C#, and I've had fun I've been able to design and create my own frontend too.
+I'm a developer and creative technologist from London, UK driven by a passion for blending design, logic and human experience. After beginning my journey through a Digital Skills Bootcamp back in 2021/2022 and a Software Development Apprenticeship at Lumen Research, I have spent the past few years exploring how ideas become intuitive, elegant and intelligent products.
 
-- 🔭 I’m currently working on a financial management application which is inspired by my time as a Financial Educator.  I will be building this using React.js, a framework as I have been using this in my current role. 
-- 🌱 I’m currently working on mastering React.js with the view to learn React Native
+My long term goal is to evolve into a Product Engineer who craft tools that inspire creativity and deepen human connection, and to pursue an MSc in Computer Science and Artificial Intelligence to bring that vision to life
 
 
 ## Skills
